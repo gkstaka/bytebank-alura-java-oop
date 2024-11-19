@@ -1,3 +1,3 @@
-# ByteBank Alura institute project
+# ByteBank Alura Institute project
 
-Basic understanting of classes, attributes, methods and encapsulation.
+Basic understanting of classes, attributes, methods and encapsulation utilizing the Java languange for coding.
